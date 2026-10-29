@@ -1,0 +1,89 @@
+{
+  "version": "v0.1.10",
+  "built": "2026-10-29T14:18:42Z",
+  "channel": "stable",
+  "baseUrl": "https://gitee.com/safes/bi-agent/releases/download/v0.1.10",
+  "notes": "\n优化了部分功能",
+  "assets": [
+    {
+      "platform": "windows",
+      "arch": "amd64",
+      "kind": "portable",
+      "file": "bi-windows-amd64.zip",
+      "bytes": 50399213,
+      "sha256": "e78c8dd38b6f1e63478c81c783a7f50a33a65f2c590fc148c0a3e45ff3054289"
+    },
+    {
+      "platform": "windows",
+      "arch": "arm64",
+      "kind": "portable",
+      "file": "bi-windows-arm64.zip",
+      "bytes": 49323612,
+      "sha256": "8da2bb81a7efb82c8987b570f3f0c50336c11eb912c4aa018dee479c4027504a"
+    },
+    {
+      "platform": "darwin",
+      "arch": "amd64",
+      "kind": "dmg",
+      "file": "bi-darwin-amd64.dmg",
+      "bytes": 61400762,
+      "sha256": "3984e9462ed6a247203ff67deb3c8684ceb6cc03ee6b8120a702c696d2e2af7c"
+    },
+    {
+      "platform": "darwin",
+      "arch": "amd64",
+      "kind": "app",
+      "file": "bi-darwin-amd64-app.zip",
+      "bytes": 56810192,
+      "sha256": "c393caec46b5029fac156689cb8385165362ff048938fe013c14665386d0f4bc"
+    },
+    {
+      "platform": "darwin",
+      "arch": "amd64",
+      "kind": "portable",
+      "file": "bi-darwin-amd64.zip",
+      "bytes": 56223347,
+      "sha256": "84256f519f9325de4ce1781ebd3d24c98ac7541221ae0f6fde4fa3485ec856e6"
+    },
+    {
+      "platform": "darwin",
+      "arch": "arm64",
+      "kind": "dmg",
+      "file": "bi-darwin-arm64.dmg",
+      "bytes": 58238401,
+      "sha256": "084464e13b7788802c778d220d3991e8ef4539d55c7b933960b4743c02ebc425"
+    },
+    {
+      "platform": "darwin",
+      "arch": "arm64",
+      "kind": "app",
+      "file": "bi-darwin-arm64-app.zip",
+      "bytes": 54167084,
+      "sha256": "a6d9e8d415d44ba3f46e2d19f4aa4a9cbfd24f3d1693db9454cb82d9b769cc27"
+    },
+    {
+      "platform": "darwin",
+      "arch": "arm64",
+      "kind": "portable",
+      "file": "bi-darwin-arm64.zip",
+      "bytes": 53953040,
+      "sha256": "c4a97b4c6c58d979f3672e27ad000ab80b605fc8303476d7ec823ac81c639410"
+    },
+    {
+      "platform": "linux",
+      "arch": "amd64",
+      "kind": "portable",
+      "file": "bi-linux-amd64.zip",
+      "bytes": 52806633,
+      "sha256": "a2fa8c09f944602e942ea1963f38118953c360bb69c147f96cbe34b36ba339a6"
+    },
+    {
+      "platform": "linux",
+      "arch": "arm64",
+      "kind": "portable",
+      "file": "bi-linux-arm64.zip",
+      "bytes": 50789078,
+      "sha256": "c3f854b06074eb8e55727260349a49bf3fe2649b596f7a70f4fb30f98b0f272c"
+    }
+  ]
+}
